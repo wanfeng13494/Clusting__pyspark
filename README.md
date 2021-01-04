@@ -1,5 +1,5 @@
 # 部署操作
-## 1.此项目为pyspark版本，部署前需要先配置pyspark环境
+## 1.此项目为pyspark版本，部署前需要先配置pyspark环境（原生版本请戳 👉 https://github.com/wanfeng13494/Clusting__SKlearn）
    ### 具体请参考 👉 https://zhuanlan.zhihu.com/p/129061994
 ## 2.下载Gaia-DR3数据（此处附带一份我自己用的数据）
 ## 3.将代码中涉及到数据地址的语句改成自己的本地数据地址
