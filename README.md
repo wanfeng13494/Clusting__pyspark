@@ -2,10 +2,11 @@
 ## 1.此项目为pyspark版本（原生版本请戳 👇 https://github.com/wanfeng13494/Clusting__SKlearn）
    ### 部署前需要先配置pyspark环境
    ### 具体请参考 👉 https://zhuanlan.zhihu.com/p/129061994
-## 2.下载Gaia-DR3数据（此处附带一份我自己用的数据）
-## 3.将代码中涉及到数据地址的语句改成自己的本地数据地址
-## 4.补充下载代码中所需要的第三方库（部分库未用到，可删除）
-## 5.运行（确保pyspark正常启动）
+## 2.将.ipynb文件导入自己的jupyter notebook中
+## 3.下载Gaia-DR3数据（此处附带一份我自己用的数据）
+## 4.将代码中涉及到数据地址的语句改成自己的本地数据地址
+## 5.补充下载代码中所需要的第三方库（部分库未用到，可删除）
+## 6.运行（确保pyspark正常启动）
 
 # 基于 DBSCAN 聚类算法在 Gaia-DR3 中疏散星团的成员判定
 ## 本项目基于GaiaDataRelease3 (Gaia DR3)星表,
